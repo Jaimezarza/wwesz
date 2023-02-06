@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:0 tvg-id="AXNHD.mx" group-title="Channels",AXN HD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/22697
+#EXTINF:0 tvg-id="M.CineEspanol.es" group-title="Channels",Cine Dinamita
+http://45.90.105.74:25461/Universochingatuculo/HA280622/44073
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Dinamita (RD)
+http://45.90.105.74:25461/Universochingatuculo/HA280622/44072
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinema dinamita
+http://45.90.105.74:25461/Universochingatuculo/HA280622/37740
+#EXTINF:0 tvg-id="ext" group-title="Channels",i | Cinemax Easte Latino
+http://45.90.105.74:25461/Universochingatuculo/HA280622/81492
+#EXTINF:0 tvg-id="ext" group-title="Channels",EC: EL CANAL DEL FUTBOL
+http://45.90.105.74:25461/Universochingatuculo/HA280622/1870
+#EXTINF:0 tvg-id="ext" group-title="Channels",45.1 Canal Del Congreso
+http://45.90.105.74:25461/Universochingatuculo/HA280622/56960
+#EXTINF:0 tvg-id="ext" group-title="Channels",45.2 Canal Del Congreso
+http://45.90.105.74:25461/Universochingatuculo/HA280622/56961
+#EXTINF:0 tvg-id="ext" group-title="Channels",45.3 Canal Del Congreso
+http://45.90.105.74:25461/Universochingatuculo/HA280622/56962
+#EXTINF:0 tvg-id="ext" group-title="Channels",A Mas SD =
+http://45.90.105.74:25461/Universochingatuculo/HA280622/2134
+#EXTINF:0 tvg-id="ext" group-title="Channels",A&E E (i)
+http://45.90.105.74:25461/Universochingatuculo/HA280622/37982
+#EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E HD
+http://45.90.105.74:25461/Universochingatuculo/HA280622/30300
+#EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E HD (i)
+http://45.90.105.74:25461/Universochingatuculo/HA280622/37973
+#EXTINF:0 tvg-id="ext" group-title="Channels",A&E HD (p)
+http://45.90.105.74:25461/Universochingatuculo/HA280622/3295
+#EXTINF:0 tvg-id="ext" group-title="Channels",A&E LQ
+http://45.90.105.74:25461/Universochingatuculo/HA280622/16503
+#EXTINF:0 tvg-id="ext" group-title="Channels",A&E SD (p)
+http://45.90.105.74:25461/Universochingatuculo/HA280622/22698
+#EXTINF:0 tvg-id="A+.civ" group-title="Channels",A+
+http://45.90.105.74:25461/Universochingatuculo/HA280622/19653
+#EXTINF:0 tvg-id="A+.civ" group-title="Channels",A+ (i)
+http://45.90.105.74:25461/Universochingatuculo/HA280622/37800
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADN 40 (i)
+http://45.90.105.74:25461/Universochingatuculo/HA280622/37805
